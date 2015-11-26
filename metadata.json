@@ -4,9 +4,9 @@
   "author": "throup",
   "summary": "Install Mediatomb",
   "license": "Apache-2.0",
-  "source": "",
-  "project_page": null,
-  "issues_url": null,
+  "source": "https://github.com/throup/puppet-mediatomb.git",
+  "project_page": "https://github.com/throup/puppet-mediatomb",
+  "issues_url": "https://github.com/throup/puppet-mediatomb/issues",
   "dependencies": [
     {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
   ]
